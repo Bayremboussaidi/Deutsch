@@ -1,0 +1,60 @@
+
+
+[Element 1] + [Verb] + [Subject/Object] + [Time] + [Manner] + [Place] + [Other]
+
+
+
+Rule when there is 1 verb ?
+
+
+- elemnet1 = subj , time , place ..
+
+
+- verb is always in 2nd place
+
+
+- subject either before the verb / or , after the verb 
+
+ -> subject is either 1st or  3rd
+
+
+exp : 
+
+Heute kommt er spät.
+
+Sie geht zur Schule
+
+
+
+
+
+
+
+
+
+
+fragen = questions
+ -----------------------------------
+
+
+
+
+Rule when there is 2 verbs ?
+
+
+
+[Element 1] + [Conjugated Verb] + [Subject/Object/etc.] + ... + [Infinitive or Participle at the End]
+
+
+exp :
+
+Ich möchte Deutsch lernen.
+
+Heute muss sie früh aufstehen.   (Today she must get up early.)
+
+Wir können das Auto reparieren
+
+
+
+
+

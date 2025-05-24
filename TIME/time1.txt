@@ -1,0 +1,47 @@
+
+tag  =  day
+
+
+jahre = year
+
+
+
+Monat  =  mois
+
+
+
+Woche   =  week
+
+
+
+jetzt	=  now
+
+
+
+
+vorgestern	=   day before yesterday
+
+
+gestern     =   yesterday
+
+
+nächste  =  next 
+
+
+letzte   =  last
+
+
+ früh  =  early
+
+
+
+heute   =   this / today      , exp :    heute Abend  ,  heute Morgen	
+
+
+
+aufwachen = wake up    		/	ich aufwache um 6 uhr morgens  
+
+
+
+
+jeder / jede (femenin) / jedes - Nominativ  = each 		->    Jeden Montag / Dienstag / ... 
