@@ -16,4 +16,11 @@ schwer (heavy) !=  licht (light)
 
 
 
+
+
+stuhl (n) == chaise
+
+
+
+
 Ich benutze diese Maschine     /   benutze (v) = use
