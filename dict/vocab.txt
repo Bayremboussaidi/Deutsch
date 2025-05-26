@@ -16,6 +16,9 @@ schwer (heavy) !=  licht (light)
 
 
 
+schuler (n) == student                 /      lehrer (n) == teacher 
+
+
 
 
 stuhl (n) == chaise
