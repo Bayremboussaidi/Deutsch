@@ -1,0 +1,59 @@
+Nach der Arbeit macht er Sport.
+
+(after work he does sport )
+
+
+Das Buch finde ich interessant.
+
+
+
+
+
+
+
+
+
+
+RULE ? 
+
+[Time / Place / Object / Other] + [**Verb**] + [Subject] + [Rest]
+
+
+1 - time :
+
+- Heute isst er einen Apfel.   ( today he eats an apple )
+
+- Morgens liest sie die Zeitung.     ( in the mornings she reads newspaper )
+
+- Nach der Schule spielt das Kind draußen.    ( after school , this kid plays outside )
+
+
+
+
+2 - place first :
+
+- in der stadt kaufe ich brot.   ( in this city i but bread) 
+
+- auf dem tisch liegt das buch
+
+
+
+
+3 - object first :
+
+- den film sehe ich heute abend    ( i watch the film tonight )
+
+- das buch liest der schuler schnell  (The student reads the book quickly )
+
+- Die Aufgabe macht sie jetzt.   ( she does the task now )
+
+
+
+
+
+
+4. Other (Reason, Manner, Frequency, etc.) :
+
+- Oft trinkt er Tee am Abend.    ( often he drinks tea in the morning )
+
+- Mit großer Freude hilft sie ihren Freunden. ( with big joy she helps her friends ) 
