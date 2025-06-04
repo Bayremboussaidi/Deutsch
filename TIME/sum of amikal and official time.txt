@@ -1,0 +1,65 @@
+Official : sehel 
+
+uhr - minute
+
+03 : 00   drei uhr
+
+
+----------------------------------
+
+Colloquial :
+
+
+
+
+
+
+
+03 : 00   drei uhr
+
+
+
+
+- : 30    -> habl + 'next uhr'
+
+exemples :
+
+01 : 30   ->   halb zwei
+
+
+
+
+*******************************
+
+
+* ken 	< 30 		-> 	  nach
+
+
+
+exemples :
+
+04 : 10   ->    zehn nach vier
+
+05 : 20   ->    zwanzig nach funf
+
+12 : 05    ->    funf nach zwolf
+
+13 : 15    ->  vierzehn nach dreizehn /    viertel nach eins  ( 1 PM )
+ 
+
+
+
+
+* ken	 > : 30       ->  	 vor  ( before ) + next uhr
+
+exp : 
+
+6 : 35   ->   funf nach halb seiben
+
+7 : 40     ->  zwanzig vor acht     
+
+8 : 45      ->    viertel vor neun
+
+9 : 50      ->   zehn vor zehn 
+
+23 : 59     -> eine minute vor zwolf

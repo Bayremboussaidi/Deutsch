@@ -1,0 +1,18 @@
+um : used with clock s 
+
+
+exple : 
+
+. um 11:30 Uhr
+
+
+
+
+
+
+
+
+am : used with days , months , date ..
+
+
+am montag , am sontag ..
