@@ -1,0 +1,46 @@
+
+
+casual order german phrase : 
+
+
+Subject – Verb – Object – Time – Manner – Place
+
+
+exemples :
+
+* Vielleicht bringe ich am Samstag meine Freundin mit.
+
+
+
+
+
+
+
+For YES / NO form :
+
+Verb – Subject – Object – Time – Manner – Place
+
+
+
+
+
+
+
+exemples ? 
+
+ Ich – schreibe – die E-Mail – heute – schnell – im Büro.          ->   schreibst du die email heute schnell im Buro
+
+
+
+
+( subject - verb ) - direct object - T M P
+
+
+Position	Word		Explanation
+
+1		Schreibst	Verb
+2		du		Subject
+3		die E-Mail	Direct Object
+4		heute		Time
+5		schnell		Manner
+6		im Büro		Place

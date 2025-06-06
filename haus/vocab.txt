@@ -1,0 +1,4 @@
+fernsehen  == tv
+
+
+fruhstuck  == break fadt

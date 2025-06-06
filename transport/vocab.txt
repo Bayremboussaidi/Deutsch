@@ -1,1 +1,15 @@
 rat  == bike
+
+ab == out
+
+
+
+
+abfahren   !=  ankommen 
+
+(quiter        arriver)
+
+
+
+
+
