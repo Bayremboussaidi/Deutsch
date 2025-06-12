@@ -1,0 +1,6 @@
+mannchaft  = equipe
+
+
+
+
+schaft  = company 

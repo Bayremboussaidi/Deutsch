@@ -1,5 +1,5 @@
 
-tag  =  day
+tag  =  day                /    taglich (adj)  == daily
 
 
 jahre = year
@@ -10,7 +10,7 @@ Monat  =  mois
 
 
 
-Woche   =  week
+Woche   =  week            /     wöchentlich  == weekly
 
 
 

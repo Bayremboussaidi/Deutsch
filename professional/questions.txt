@@ -48,3 +48,9 @@ Was motiviert Sie?           Qu’est-ce qui vous motive ?
 
 
  Was wissen Sie über unser Unternehmen?    	Que savez-vous de notre entreprise ?
+
+
+
+
+
+* firma = company               /    neuen firma  = new company 
