@@ -1,0 +1,68 @@
+fernsehen  == tv
+
+
+fruhstuck  == break fadt
+
+
+bad  = bathroom
+
+
+
+putzen = netoyer
+
+Putzt du gern deine Wohnung?    ( wohnung == appartement )
+
+
+
+
+hauseaufgaben  == house chores
+
+
+
+
+zimmer (Noun) == room
+
+
+Kuche = kitchen 
+
+
+
+
+- er wohnt allein(e)  = alone
+
+
+
+
+
+************ directions***********
+
+neben = next to
+
+
+hinter = behind 
+
+
+unter = under
+
+
+
+zwischen   =   between 		 ->   zwischen uns (us) /    Die Grenze zwischen Mexiko und usa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aufraumen  = clean up  , raumen = clean
+
+
+wasch =  to wash

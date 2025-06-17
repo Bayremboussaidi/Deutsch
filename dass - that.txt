@@ -4,6 +4,12 @@
 
 
 
+ - Stelle (Noun) = place
+
+
+
+
+
 
 
 
@@ -30,3 +36,5 @@ dass ?  that 			(after "dass"), the conjugated verb goes to the end.
 
 - Ich glaube, dass er krank ist.    (  I believe that he is sick. )
 
+
+- schlank (adj) = slim
