@@ -7,7 +7,12 @@ Klaud = clothes
 
 
 
+tragen (v) = to wear
+
+
+
 
 haben sie schon einmal     /   schon einmal = have already
 
 
+Schuhe = Shoes

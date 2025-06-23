@@ -19,6 +19,11 @@ die (feminine, most probable): -e  ,  -ung, -keit, -heit, -schaft, -ion, -tät
 
 
 
+
+
+
+
+
 das (neuter, most probable): -chen, -lein, -um, -ment, -tum, -ma 
 
  

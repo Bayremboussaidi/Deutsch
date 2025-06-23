@@ -1,0 +1,6 @@
+katze  = cat
+
+
+den hunde  =  dog
+
+Die bilder  =   les images 

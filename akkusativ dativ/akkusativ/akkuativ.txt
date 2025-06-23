@@ -1,3 +1,33 @@
+RQ  f les tables de Possession ( mein , dein ..) :
+
+
+- Nominativ  ==  Neutre		( mein , dein ,   sein - er / es  , ihr - sie ,  unser - wir  ,  euer - ihr  , ihr - sie plur / Sie )  
+
+
+- Femenin == Plurial	( meine , deine ...)  + e
+
+
+- maskul  ( meinen , deinen .. )  + en                    
+
+
+
+
+sie - ihr
+
+wie - unsure
+
+ihr - euer
+
+Sie / sie plur - ihr
+
+
+
+
+
+
+
+
+
 
 der 	 -- den - einen
 
@@ -34,6 +64,17 @@ Das Geschenk (gift) ist von meiner Mutter
  Ich wohne bei meinen Eltern. (I live with my parents.)
 
  Ich komme aus der Türkei. (I'm from Turkey.) ....  
+
+
+- ich liese das interessanteste Buch
+
+
+- Duisburg ist groß (+), München ist größer (++), und am größten (+++) ist Berlin.
+
+
+
+
+- er findet der neuen film langweilig ( boring )
 
 
 

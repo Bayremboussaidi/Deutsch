@@ -18,12 +18,20 @@ Putzt du gern deine Wohnung?    ( wohnung == appartement )
 hauseaufgaben  == house chores
 
 
+waschmaschine
 
+
+ 
 
 zimmer (Noun) == room
 
 
 Kuche = kitchen 
+
+
+- Die Musik ist zu laut.   	( laut (adj)  = loud )
+
+
 
 
 
@@ -51,18 +59,27 @@ zwischen   =   between 		 ->   zwischen uns (us) /    Die Grenze zwischen Mexiko
 
 
 
+ist ordentlich (adj) =   ordonné
 
 
 
 
+die  türe ist auf     /     türe  =  porte ( noun )
 
 
-
-
-
+sauber  =  faire menage
 
 
 aufraumen  = clean up  , raumen = clean
 
 
-wasch =  to wash
+wasch = spulen  =      to wash
+
+
+- geschirr (noun)  =  dishes
+
+
+
+
+
+- sauber (adjectiv)   =  clean
