@@ -7,3 +7,7 @@ unternehmen (Noun)  =    entreprise
 - Wir bekommen unser Gehalt morgen             ,   gehalt  = salary
 
 
+
+
+- Schreibtisch  (Nn )   =  bureau
+
