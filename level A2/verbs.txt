@@ -139,3 +139,8 @@ Schenken (v)  = give a gitft       ;   der mann schenkt der frau (dativ)   blume
 
 
 - vorstellen (v)  =  to introduce         ;    wir mochten uns vorstellen 
+
+
+
+
+- anzieht (v)  - habe angezogen
