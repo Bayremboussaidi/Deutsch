@@ -144,3 +144,7 @@ Schenken (v)  = give a gitft       ;   der mann schenkt der frau (dativ)   blume
 
 
 - anzieht (v)  - habe angezogen
+
+
+
+- verpasse (v)   = to miss  - habe verpasst     ;  ich verpasse den zug      ;  

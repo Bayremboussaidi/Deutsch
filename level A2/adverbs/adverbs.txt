@@ -90,3 +90,20 @@ dashalb    =  for this reason      ;       [Deshalb] + [verb] + [subject] + ... 
 
 
 
+- danach  : after that 
+
+
+- sonst  : otherwise     ;   ich brauche geld , sonst kann ich nichts einkaufen
+
+
+
+
+- deshalb != sonst 	( therefore , because of that )     ;  ich brauche geld daslab arbeite ich
+
+
+
+
+- wenn ( when )   -> push verb to the end   ;         	weil ich meinen freund abholeh will (conj verb = will )
+
+
+
