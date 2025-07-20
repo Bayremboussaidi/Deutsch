@@ -13,7 +13,7 @@ exemples :
 
 * ich fahre morgen mit mein auto nach berlin 
 
-* Morgen fahre ich mit dem Auto nach Berlin.
+* Morgens fahre ich mit dem Auto nach Berlin.
 
 * Nach Berlin fahre ich morgen mit dem Auto.
 
@@ -28,4 +28,4 @@ exemples :
 when there is object :
 
 
- => Subject – Verb – Direct Object – Time – Manner – Place
+ => Subject – Verb – Dativ Obj - Akk Direct Object – Time – Manner – Place
