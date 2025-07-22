@@ -107,3 +107,4 @@ dashalb    =  for this reason      ;       [Deshalb] + [verb] + [subject] + ... 
 
 
 
+- dagegen  ( on the other hand )  : tet7at 3adi :  ich bin dagegen mude um wochenande
