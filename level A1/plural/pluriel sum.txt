@@ -1,5 +1,5 @@
 
-die 	->  	-n, -en, (rare: no change)
+die 	->  	-n, -en, 	(rare: no change)
 
 
 
