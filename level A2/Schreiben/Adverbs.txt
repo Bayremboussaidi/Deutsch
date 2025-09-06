@@ -67,3 +67,7 @@ regelmassig (ch)    ;   ich rufe mein eltern an regelmäßig , denn ich vermisse
 
 
 
+denoch    =  .. , pourtant ..  :  ich war mude , denoch mach ich mein hausaufgaben 
+
+
+

@@ -234,7 +234,7 @@ sei versuchtig   wen du vertraust
 
 
 
-Meine eischatzung  = mon evaluation 	;  gemischt  = mixte
+Meine einschatzung  = mon evaluation 	;  gemischt  = mixte
 
 
 meine enschatzung  gemischt mit recherche , die gemacht habe um .. zu ...
@@ -359,8 +359,6 @@ wunderschön , wundervoll  =  beautiful  , wonderfull
 
 
 
-
-
 entziehen  =  retirer
 
 
@@ -434,6 +432,14 @@ sie ist ein Sonderfall.
 
 
 
+ich bin  nicht  interessiert
+
+
+
+ich möchte sicher sein, dass er mich nicht betrügt
+
+
+
 
 auf der anderen Seite   =  on other hand 
 verbieten  = interdire   ;      das ist vorboten  !=  urlaubt 
@@ -467,4 +473,23 @@ frische = fraiche   ; ich mag frische luft
 
 
 ich bin angespannant  =  metwater 
+
+
+
+
+
+
+erfordernis ( requirements )    =  bedigung  , brauche ..
+
+
+erfordern  ( require )
+
+
+
+Unter  der bedingung , dass   ...    =   unter this condition ...
+
+
+
+aus  diesem Grund  , ..   =  for this reason
+
 
