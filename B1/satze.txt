@@ -14,6 +14,10 @@ ich befinde mich in meinem  ArbeitZimmer
 
 
 
+es befindet sich  in ...  ( situé ) 
+
+
+
 Ich bin bekannt für meinen guten Umgang mit Kindern
 
 
@@ -252,7 +256,7 @@ ausdauer   = endurance   ;
 
 du wirst dein ziel  erreichen   mit geduld , fliess , und Ausdauer  ( endurance )
 
-S
+
 
 
 schlau  =  klever   ;    schlauer
@@ -293,7 +297,7 @@ ich gebe niemandem die Schuld für mein Problem
 
 
 
-du hast mich  sehr enttauscht
+du hast mich  sehr enttauscht ( traurig / decu   )
 
 
 
@@ -314,6 +318,7 @@ beziehen sich auf     =   refer  to
 ich bitte  dich um einen   Gefallen ( faveur )
 
 
+
 Niemals aufgeheb , aber die vergangenhait wird nie fallen 
 
 
@@ -330,6 +335,8 @@ letztlich   =  finalement
 
 
 weder .. noch   ..    /      entweder ... oder ..
+
+ni       ni
 
 
 
@@ -351,3 +358,4 @@ sich  bemuhe mich  um ein termin mit dir zu vereinbaren   /     Sich  bemuhen   
 
 
 
+gegenteil   =  opposé

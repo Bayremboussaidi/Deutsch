@@ -1,7 +1,8 @@
 
 
 
-anziehung  =  attraction
+anziehung  =  attraction    ;      beziehung = relation
+
 
 
 anziehend     =    attractive
@@ -40,5 +41,32 @@ ich war vor kurzem  in Spanien ...      ( recemment )
 
 
 bei kasse   =  on cash ;       namlich mal wieder   =  namely  once again
+
+
+
+erlebnis   =  erfahrung
+
+
+ferien  =  vacance
+
+
+
+ehrgeizig   =  ambitious
+
+
+
+schmutzig   = sale
+
+
+abenteurlich   =  aventureux
+
+
+ist  lebendig   =  vivant
+
+
+mein familie ist sehr  liebevoll   =   lovely
+
+
+mein gross bruder ....  ich bin der mittelere   
 
 
