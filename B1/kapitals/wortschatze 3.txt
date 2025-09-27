@@ -78,7 +78,6 @@ ankommen   =    arriver
 
 
 
-
 vorsichen bitte
 
 
@@ -90,7 +89,7 @@ durchsage    -   annonce
 weiterfahrt   =   continuer a conduire
 
 
-die reise  weiterfahrt  uber koln , berlin ...      (   tt3ada alehom   )
+die reise  weiterfahrt  uber koln , berlin ...         (   tt3ada alehom   )
 
 
 
@@ -212,8 +211,6 @@ es geht dir  baldmoglichst  wieder  besser
 
 
 
-
-
 - dennoch   = trotzdem    ;   
 
 
@@ -243,9 +240,12 @@ fähigkeit   =   capacity
 
 
 
-bedurfnisse  =   les besoins  ;    es war liebervoll  ( vivant ) , charmant ,
+bedurfnisse  = braucht     =   	   les besoins  ;    er war liebervoll  ( vivant ) , charmant ,
 
- und kummert sich um alle meine bedurfnisse
+
+
+
+ und kummert sich um alle meine bedurfnisse / braucht
 
 
 
@@ -477,6 +477,14 @@ verwandt  =  related    ;    verwenden  = to use
 
 
 
+- ich liebe die sprechen mit dir , wenn es gibt nichts zu  bespreschen
 
  
+
+- du bist  weder  zu  spat  , noch fruh  , jeder hast seinen  eigenen  rhytmus
+
+
+
+
+
 
