@@ -1,0 +1,19 @@
+
+
+besigen  =  to defeat
+
+
+besiegbaren  = defeatable     ,   unbesiegbaren
+
+
+anreden   =  adresse      ,     anrede   = salutation
+
+
+Abschnitt   =  section
+
+
+EINLAITUNG   : 
+
+- ich habe  lange nichts von dir gehort , ich hoffe , dass es dir gut geht !
+
+
