@@ -3,15 +3,69 @@
 besigen  =  to defeat
 
 
-besiegbaren  = defeatable     ,   unbesiegbaren
+besiegbar , en  = defeatable     ,     unbesiegbar
 
 
 anreden   =  adresse      ,     anrede   = salutation
 
 
 
+Forschung  =  research    :    Diese  ergebnisse  widerspreche  der  fruher  Forschung ( research )
+
 
 
 baum  = arbre
+
+
+- ignoriere  , wer dich ignoriere
+
+
+
+- steigern   =  verbessern   = erhohen  = zu-nehmen   = vergrossern  =       vermehren ( to multiply ) * x
+
+
+- kundigen  =  abrrechen  =   beenden  ( terminer )
+
+
+
+- begrunden      ( provide reason for this .. )
+
+
+
+- beitragen Zu   ( contribuate  to )    
+
+
+-  Anwendung  = application   ,   Anwenden  = appliquer  
+  
+
+- die meiste  Arbeit  im buro stattfindet            ;    die meiste ...      ,   am meinsten
+
+
+
+
+- beherrschen  =  kontrollieren  =  fuhren
+
+
+
+- fehlende  bewegung     ;   fehlende  = manquant
+
+
+
+- Die  Einkomme   =  the income
+
+
+
+- Der  Verlust    =   the  loss
+
+
+
+- veroffentlichen   =  bekannt  machen    ,  publizieren
+
+
+
+
+- widersprechen + Dativ   :  ich widerspreche, du widersprichst, er/sie/es widerspricht, wir widersprechen, ihr widersprecht, sie widersprechen
+
+
 
 
