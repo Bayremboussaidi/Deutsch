@@ -53,3 +53,156 @@ ich  bin   beeindruckt  =   impressed        ;         ausdruck  = expression
 ich  siehe mich  an   ( lbest  dabchi )
 
 
+einsetzen   =  insert 
+
+
+einschalten  !=  ausschalten  ( turn off )
+
+
+
+opfer  rolle   = victim  role
+
+
+die  wohnung ist gunstig = billig
+
+
+hausfest  =   house party     ,   organisiert
+
+
+ 
+verzehren  =  essen   ;     ich  verzehe  morgen  mein   fruhstuck
+
+
+
+burger  =  citizen   ,   einwohner , in   =  habitant ,e          /   Einwohneren = habitants 
+
+
+
+ist  angezogen ...   =   habillé ..    (  an-ziehen   =    s' habiller  )
+
+
+du  bist  liebenswert   =  aimable  ( ma7boub )
+
+
+kapiert  =  einverstanden   ;    	 ich  habe schnell kapiert , warum es ..
+
+
+- ich habe ein dach über dem kopf    =  ich habe eine wohnung
+
+
+
+- ein  mann zwischen 10 kann ...
+
+
+- feste  Offnungszeiten   =  heures fixes d' ouverture
+
+
+- es entwickelt sich nach zeit und alter   ;    .. nach  ( selon  f sinn siye9 hedha  )
+
+
+- mein bekanntenkreis   = cercle lem3aref
+
+
+wir haben  eine sitzung heute   =  reunion
+
+
+die  pflichten  =  duties
+
+
+Wir beabsichtigen, bald zu heiraten.    ,     beabsichtigen  = plannen , habe absicht etwas zu machen 
+
+
+Präferenz  = preference
+
+
+es wohnt  10 km  von hier
+
+
+zurzeit  = actuellement
+
+
+selten  = rare   ,   seltsam  = etrange
+
+
+ich melde mich später   =  tw nkalmek  ( hofflich )
+
+
+anwendung   =  application   ,  anwenden  = appliquer   ;      .. ist anwendet hier  ( applicated here )
+
+
+die  jungen  = les jeunes
+
+
+die jugend   =  jeunesse
+
+
+ist umgezogen nach frankreich    ;    um-ziehen  =  demenager   ,   sich an-ziehen = s habiller
+
+
+ich ziehe mich an und gehe raus   =  lbest w 5rajt
+
+
+das klingt  verlockend  =  anziehend  ( mo8ri )
+
+
+wenn du eine wohnung  sucht , siehe dir zuerst  die nachbarn an 
+
+
+- besichtigen  = visitieren , besuchen , 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+┌──(kali㉿kali)-[~]
+└─$ docker run -d \
+  --name keycloak \
+  -p 9090:8080 \
+  -e KEYCLOAK_ADMIN=admin \
+  -e KEYCLOAK_ADMIN_PASSWORD=admin \
+  quay.io/keycloak/keycloak:21.1.1 start-dev
+
+Unable to find image 'quay.io/keycloak/keycloak:21.1.1' locally
+21.1.1: Pulling from keycloak/keycloak
+ee9cce801065: Pull complete 
+bf8ced88098d: Pull complete 
+b33a68ee6dda: Pull complete 
+8af2a2cbef86: Pull complete 
+Digest: sha256:8ebb3930c41e8a066c4246eaf351ac09cdc984e11b1f607d6ff4ce10d69dc808
+Status: Downloaded newer image for quay.io/keycloak/keycloak:21.1.1
+b7b63d684e2632daf2196174a11ec52e1f3459f2132d794d865f52d9959edc76
+                                                                             
+┌──(kali㉿kali)-[~]
+└─$ 
+
