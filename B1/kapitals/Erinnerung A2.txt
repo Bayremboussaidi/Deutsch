@@ -30,13 +30,162 @@ Dunkelgrün → Dark green
 
 
 
+-------------------------
+
+
+
+Nature : 
+
+die Landschaft	 le paysage
+
+das Klima	 le climat
+
+der Wald	 la forêt
+
+der Berg	 la montagne
+
+der See	         le lac
+
+der Fluss	 la rivière
+
+das Meer	 la mer
+
+die Umwelt	 l’environnement
+
+die Verschmutzung	la pollution
+
+der Sturm	 la tempête
+
+
+
+-----------------------
+
+
+
+
+
+Nature & Environnement
+
+die Landschaft	 le paysage
+
+das Klima	 le climat
+
+der Wald	 la forêt
+
+der Berg	 la montagne
+
+der See	le lac
+
+der Fluss	 la rivière
+
+das Meer	 la mer
+
+die Umwelt	 l’environnement
+
+die Verschmutzung	la pollution
+
+der Sturm	 la tempête
+
+
+
+
 
 socken  =  chaussettes
 
 
-
-
-
 Regentag   ,  sonnige tag  ,   Wolke = cloud    ,   bewolker tag ( m8ayem )   , Die Sonne war hinter einer Wolke verschwunden ( disappeared)
+
+
+
+
+Vie quotidienne
+
+das Gebäude	le bâtiment
+die Wohnung	l’appartement
+der Bewohner	l’habitant
+der Vermieter	le propriétaire (qui loue)
+der Mieter	le locataire
+die Heizung	le chauffage
+die Klimaanlage	la climatisation
+der Schrank	l’armoire
+der Haushalt	le ménage
+der Müll	les déchets
+der Staub	la poussière
+
+
+
+
+
+
+Salle de bain (Badezimmer)
+Deutsch	Français
+die Dusche	la douche
+die Badewanne	la baignoire
+das Waschbecken	le lavabo
+das Handtuch	la serviette
+das Duschgel	le gel douche
+das Shampoo	le shampoing
+die Zahnbürste	la brosse à dents
+die Zahnpasta	le dentifrice
+der Spiegel	le miroir
+der Rasierer	le rasoir
+der Föhn	le sèche-cheveux
+das Toilettenpapier	le papier toilette
+die Seife	le savon
+die Lotion	la lotion
+das Parfüm	le parfum
+der Kamm	le peigne
+die Bürste	la brosse
+der Bademantel	le peignoir
+die Hygieneartikel	les produits d’hygiène
+
+
+
+
+
+
+
+Salon & Maison (Wohnzimmer / Haus)
+Deutsch	Français
+das Sofa	le canapé
+der Sessel	le fauteuil
+der Teppich	le tapis
+der Fernseher	la télévision
+das Regal	l’étagère
+die Decke	la couverture
+das Kissen	le coussin
+die Lampe	la lampe
+die Steckdose	la prise électrique
+der Schalter	l’interrupteur
+der Vorhang	le rideau
+die Wand	le mur
+die Decke (Zimmer)	le plafond
+der Boden	le sol
+
+
+
+
+
+
+Objets quotidiens (Alltagssachen)
+Deutsch	Français
+der Rucksack	le sac à dos
+die Geldbörse	le portefeuille
+der Ausweis	la carte d’identité
+der Schlüsselbund	le trousseau de clés
+die Sonnenbrille	les lunettes de soleil
+der Regenschirm	le parapluie
+die Uhr	la montre
+das Ladegerät	le chargeur
+das Kabel	le câble
+die Fernbedienung	la télécommande
+die Batterie	la pile
+die Packung	le paquet
+der Briefkasten	la boîte aux lettres
+der Umschlag	l’enveloppe
+
+
+
+
 
 
