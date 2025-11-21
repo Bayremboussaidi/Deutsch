@@ -186,6 +186,27 @@ der Umschlag	l’enveloppe
 
 
 
+------------------------------------------------
+
+
+Allemand	Français
+
+Montag   	lundi
+
+Dienstag	mardi
+
+Mittwoch	mercredi
+
+Donnerstag	jeudi
+
+Freitag	vendredi
+
+Samstag / Sonnabend	samedi
+
+Sonntag    dimance
+
+
+
 
 
 
