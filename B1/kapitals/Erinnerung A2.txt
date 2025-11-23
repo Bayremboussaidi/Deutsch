@@ -167,22 +167,39 @@ der Boden	le sol
 
 
 
-Objets quotidiens (Alltagssachen)
-Deutsch	Français
-der Rucksack	le sac à dos
-die Geldbörse	le portefeuille
-der Ausweis	la carte d’identité
+Objets quotidiens 
+
+der Rucksack		le sac à dos
+
+die Geldbörse		le portefeuille
+
+der Ausweis		la carte d’identité
+
 der Schlüsselbund	le trousseau de clés
+
 die Sonnenbrille	les lunettes de soleil
-der Regenschirm	le parapluie
-die Uhr	la montre
-das Ladegerät	le chargeur
-das Kabel	le câble
+
+der Regenschirm		le parapluie
+
+die Uhr			la montre
+
+das Ladegerät		le chargeur
+
+das Kabel		le câble
+
 die Fernbedienung	la télécommande
-die Batterie	la pile
-die Packung	le paquet
-der Briefkasten	la boîte aux lettres
-der Umschlag	l’enveloppe
+
+die Batterie		la pile
+
+die Packung		le paquet
+
+der Briefkasten		la boîte aux lettres
+
+der Umschlag		l’enveloppe
+
+
+die koffer 		valise
+
 
 
 
@@ -208,5 +225,6 @@ Sonntag    dimance
 
 
 
+----------------------------------------------
 
 
