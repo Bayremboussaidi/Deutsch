@@ -1,0 +1,57 @@
+
+
+der  Personalausweis  =  cin
+
+
+
+
+
+
+
+Aufenthalt  =   residence :
+
+
+die Aufenthaltskarte  
+
+
+Aufenthaltserlaubnis  ( permis  residance )
+
+
+
+----------------
+
+
+urkunde  =  bescheinigung  = zertifikat
+
+
+die Geburtsurkunde   =  certificat  birth
+
+
+die  Heiratsurkunde  =  certificat  de  marriage
+
+
+
+
+------------------
+
+
+Behörden  =  autorité 
+
+
+Auslander Behörden
+
+
+
+
+amt  ( bureau gouvermental )  ?   AuslanderAmt   ,  arbeitsAmt ( bureau de travail )    ,  finanzAmt ( tax office )
+
+
+die Krankenkasse  =  health assurance
+
+
+versicherung  = assurance
+
+
+
+
+
