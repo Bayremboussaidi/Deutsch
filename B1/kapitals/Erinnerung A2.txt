@@ -253,3 +253,30 @@ knopf  = bouton   ;      Startknopf festziehen    ,   festziehen  = serrer
  
 
 
+
+🪵 Materialien (Materialien & Stoffe)
+
+Holz – wood
+
+Metall – metal
+
+Glas – glass
+
+Plastik / Kunststoff – plastic
+
+Stein – stone
+
+Papier – paper
+
+Baumwolle – cotton
+
+Wolle – wool
+
+Leder – leather
+
+Gummi – rubber
+
+Keramik – ceramic
+
+Stoff – fabric
+
