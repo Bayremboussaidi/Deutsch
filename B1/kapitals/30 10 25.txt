@@ -265,7 +265,7 @@ angehangt  pdf  ( attached .. )   ,    anhangen  = attacher
 entlassen , entlassung   =   طرد، فصل
 
 
- ..  fige X  hinzu  ( add )
+ ..  fuge X  hinzu  ( add )
 
 
 aufrufen  =  anrufen   !=  auflegen
