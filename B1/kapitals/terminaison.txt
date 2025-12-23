@@ -1,0 +1,42 @@
+
+. BESTIMMTER ARTIKEL
+
+(der / die / das / die)
+
+
+| Kasus     | Maskulin             | Feminin            | Neutrum              | Plural               |
+| --------- | -------------------- | ------------------ | -------------------- | -------------------- |
+| Nominativ | der gut**e** Mann    | die gut**e** Frau  | das gut**e** Kind    | die gut**en** Leute  |
+| Akkusativ | den gut**en** Mann   | die gut**e** Frau  | das gut**e** Kind    | die gut**en** Leute  |
+| Dativ     | dem gut**en** Mann   | der gut**en** Frau | dem gut**en** Kind   | den gut**en** Leuten |
+| Genitiv   | des gut**en** Mannes | der gut**en** Frau | des gut**en** Kindes | der gut**en** Leute  |
+
+
+
+
+UNBESTIMMTER ARTIKEL
+
+(ein / eine / ein / keine / meine / deine)
+
+
+| Kasus     | Maskulin               | Feminin              | Neutrum                | Plural                  |
+| --------- | ---------------------- | -------------------- | ---------------------- | ----------------------- |
+| Nominativ | ein gut**er** Mann     | eine gut**e** Frau   | ein gut**es** Kind     | keine gut**en** Leute   |
+| Akkusativ | einen gut**en** Mann   | eine gut**e** Frau   | ein gut**es** Kind     | keine gut**en** Leute   |
+| Dativ     | einem gut**en** Mann   | einer gut**en** Frau | einem gut**en** Kind   | keinen gut**en** Leuten |
+| Genitiv   | eines gut**en** Mannes | einer gut**en** Frau | eines gut**en** Kindes | keiner gut**en** Leute  |
+
+
+
+
+DIESER-WÖRTER
+
+(dieser, diese, dieses, jeder, welcher, mancher, solcher)
+
+| Kasus     | Maskulin                | Feminin               | Neutrum                 | Plural                  |
+| --------- | ----------------------- | --------------------- | ----------------------- | ----------------------- |
+| Nominativ | dieser gut**e** Mann    | diese gut**e** Frau   | dieses gut**e** Kind    | diese gut**en** Leute   |
+| Akkusativ | diesen gut**en** Mann   | diese gut**e** Frau   | dieses gut**e** Kind    | diese gut**en** Leute   |
+| Dativ     | diesem gut**en** Mann   | dieser gut**en** Frau | diesem gut**en** Kind   | diesen gut**en** Leuten |
+| Genitiv   | dieses gut**en** Mannes | dieser gut**en** Frau | dieses gut**en** Kindes | dieser gut**en** Leute  |
+
