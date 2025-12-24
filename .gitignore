@@ -1,0 +1,12 @@
+# Documents
+*.pdf
+*.docx
+*.jpg
+*.png
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+*.mui.*
+bootmgr.*
+~$*
