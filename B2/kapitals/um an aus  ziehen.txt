@@ -1,0 +1,10 @@
+
+
+| Verb          | Kleidung     | Wohnung      |
+| ------------- | ------------ | ------------ |
+| **anziehen**  | 👕 anziehen  | ❌            |
+| **ausziehen** | 👕 ausziehen | 🏠 verlassen |
+| **umziehen**  | 👕 wechseln  | 🏠 wechseln  |
+
+
+
