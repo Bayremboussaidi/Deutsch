@@ -1,0 +1,10 @@
+
+
+| Kasus     | Maskulin                | Feminin                  | Neutrum                     | Plural                  |
+| --------- | ----------------------- | ------------------------ | --------------------------- | ----------------------- |
+| Nominativ | anstrengend**er** Tag   | anstrengend**e** Arbeit  | anstrengend**es** Training  | anstrengend**e** Tage   |
+| Akkusativ | anstrengend**en** Tag   | anstrengend**e** Arbeit  | anstrengend**es** Training  | anstrengend**e** Tage   |
+| Dativ     | anstrengend**em** Tag   | anstrengend**er** Arbeit | anstrengend**em** Training  | anstrengend**en** Tagen |
+| Genitiv   | anstrengend**en** Tages | anstrengend**er** Arbeit | anstrengend**en** Trainings | anstrengend**er** Tage  |
+
+
