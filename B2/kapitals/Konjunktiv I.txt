@@ -1,0 +1,8 @@
+
+Subject,       Indikativ (Fact),   Konjunktiv I (Reporting)
+
+Er/Sie/Es,      Er ist müde.,        Er sei müde.
+
+Er/Sie/Es,      Sie hat Zeit.,       Sie habe Zeit.
+
+Er/Sie/Es,     Er geht nach Hause.    ,Er gehe nach Hause.
