@@ -1,0 +1,25 @@
+
+der / die / das / die (Plural)
+
+
+| Case      | Masculine            | Feminine           | Neuter               | Plural               |
+| --------- | -------------------- | ------------------ | -------------------- | -------------------- |
+| Nominativ | der alt**e** Mann    | die alt**e** Frau  | das alt**e** Haus    | die alt**en** Leute  |
+| Akkusativ | den alt**en** Mann   | die alt**e** Frau  | das alt**e** Haus    | die alt**en** Leute  |
+| Dativ     | dem alt**en** Mann   | der alt**en** Frau | dem alt**en** Haus   | den alt**en** Leuten |
+| Genitiv   | des alt**en** Mannes | der alt**en** Frau | des alt**en** Hauses | der alt**en** Leute  |
+
+
+
+
+
+
+
+after ein / eine / kein / mein / dein / sein / ihr / unser / euer / Ihr .. ( possession )
+
+| Case      | Masculine              | Feminine             | Neuter                 | Plural                  |
+| --------- | ---------------------- | -------------------- | ---------------------- | ----------------------- |
+| Nominativ | ein alt**er** Mann     | eine alt**e** Frau   | ein alt**es** Haus     | keine alt**en** Leute   |
+| Akkusativ | einen alt**en** Mann   | eine alt**e** Frau   | ein alt**es** Haus     | keine alt**en** Leute   |
+| Dativ     | einem alt**en** Mann   | einer alt**en** Frau | einem alt**en** Haus   | keinen alt**en** Leuten |
+| Genitiv   | eines alt**en** Mannes | einer alt**en** Frau | eines alt**en** Hauses | keiner alt**en** Leute  |

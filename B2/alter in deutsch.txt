@@ -1,0 +1,15 @@
+| Begriff                                    | Alter (ca.)     | Bedeutung                   | Beispiel                        |
+| ------------------------------------------ | --------------- | --------------------------- | ------------------------------- |
+| **Baby**                                   | 0–2 Jahre       | sehr kleines Kind           | Das Baby schläft.               |
+| **Kleinkind**                              | 2–5 Jahre       | kleines Kind vor der Schule | Das Kleinkind spielt.           |
+| **Kind**                                   | 6–12 Jahre      | Schulkind                   | Das Kind geht zur Schule.       |
+| **Jugendlicher** (m) / **Jugendliche** (f) | 13–17 Jahre     | Teenager                    | Der Jugendliche lernt viel.     |
+| **Teenager**                               | 13–19 Jahre     | informell für Jugendliche   | Der Teenager hört Musik.        |
+| **junger Mensch**                          | 16–25 Jahre     | junge Person allgemein      | Viele junge Menschen studieren. |
+| **junger Mann**                            | ca. 18–30 Jahre | erwachsener Mann, aber jung | Der junge Mann arbeitet.        |
+| **junge Frau**                             | ca. 18–30 Jahre | erwachsene Frau, aber jung  | Die junge Frau studiert.        |
+| **Erwachsener**                            | ab 18 Jahre     | Adult                       | Der Erwachsene arbeitet.        |
+| **Senior / Rentner**                       | ab 60–67 Jahre  | ältere Person               | Der Rentner reist viel.         |
+
+
+

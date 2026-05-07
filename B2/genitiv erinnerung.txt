@@ -1,0 +1,44 @@
+
+
+| Genre    | Article défini   | Exemple        |
+| -------- | ---------------- | -------------- |
+| masculin | **des** + -s/-es | des Mann**es** |
+| neutre   | **des** + -s/-es | des Kind**es** |
+| féminin  | **der**          | der Frau       |
+| pluriel  | **der**          | der Kinder     |
+
+
+
+
+Le génitif vient après :
+
+wegen (à cause de)
+trotz (malgré)
+während (pendant)
+statt (au lieu de)
+
+
+
+
+*  If there is an article → adjective = -en    ( wegen  des schlechten  wetters )..   der schönen Frau 
+
+
+
+
+- WITHOUT  ARTIKEL
+
+| Genre    | Ending  | Example                   |
+| -------- | ------- | ------------------------- |
+| Maskulin | **-en** | wegen **guten Mannes**    |
+| Neutrum  | **-en** | wegen **guten Kindes**    |
+| Feminin  | **-er** | wegen **guter Frau**      |
+| Plural   | **-er** | wegen **großer Probleme** |
+
+
+maskul , neutr   ->  -en         /    Fem , Plur  -> -er
+
+
+wegen guter Freunde      /      trotz großer Probleme
+
+
+

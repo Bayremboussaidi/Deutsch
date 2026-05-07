@@ -1,0 +1,10 @@
+
+
+| Type d’article              | Masculin                                     | Féminin                                    | Neutre                                     | Pluriel                                  | Exemple avec „mit / ohne Interesse“ |
+| --------------------------- | -------------------------------------------- | ------------------------------------------ | ------------------------------------------ | ---------------------------------------- | ----------------------------------- |
+| **Défini** (der/die/das)    | mit **dem großen** / ohne **den großen**     | mit **der großen** / ohne **die große**    | mit **dem großen** / ohne **das große**    | mit **den großen** / ohne **die großen** | mit **dem großen Interesse**        |
+| **Indéfini** (ein/eine/ein) | mit **einem großen** / ohne **einen großen** | mit **einer großen** / ohne **eine große** | mit **einem großen** / ohne **ein großes** | —                                        | mit **einem großen Interesse**      |
+| **Aucun article**           | mit **großem** / ohne **großen**             | mit **großer** / ohne **große**            | mit **großem** / ohne **großes**           | mit **großen** / ohne **große**          | mit **großem Interesse**            |
+
+
+
